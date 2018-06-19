@@ -1,0 +1,16 @@
+{
+  "services" : [
+    {
+      "id": 1,
+      "url": "www.facebook.it",
+      "username": "alex.davide",
+      "password": "P4ssw0rd!"
+    },
+    {
+      "id": 2,
+      "url": "www.twitter.it",
+      "username": "ale_davide",
+      "password": "P4ssw0rdTw1tt3r"
+    }
+  ]
+}
