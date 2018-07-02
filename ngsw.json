@@ -7,12 +7,13 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "https://flex990.github.io/mypass/0.99af4f7954db04939340.js",
+        "https://flex990.github.io/mypass/0.3eb85abff9efd64b965f.js",
+        "https://flex990.github.io/mypass/1.c02d48f25ebb4f22c7d8.js",
         "https://flex990.github.io/mypass/favicon.ico",
         "https://flex990.github.io/mypass/index.html",
-        "https://flex990.github.io/mypass/main.64b246b141640c9af9fb.js",
-        "https://flex990.github.io/mypass/polyfills.a332e488364276406cef.js",
-        "https://flex990.github.io/mypass/runtime.11bfe23b473762c24644.js",
+        "https://flex990.github.io/mypass/main.43d6eca509bae8f90fc5.js",
+        "https://flex990.github.io/mypass/polyfills.e0d2e32bad0be6183dcf.js",
+        "https://flex990.github.io/mypass/runtime.2fd6ab9b8796fbc742f4.js",
         "https://flex990.github.io/mypass/styles.e115af60effd47cf4882.css"
       ],
       "patterns": []
@@ -36,7 +37,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://flex990.github.io/mypass/0.99af4f7954db04939340.js": "1bc8b532d289ea6c08c61940c1a67b15c49d5f4e",
+    "https://flex990.github.io/mypass/0.3eb85abff9efd64b965f.js": "f1642bf0617d2ac17e3ce908ad82ab7562f3c8d1",
+    "https://flex990.github.io/mypass/1.c02d48f25ebb4f22c7d8.js": "c1717ee9a1e707ba08eddcd73fc937310e504a3d",
     "https://flex990.github.io/mypass/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://flex990.github.io/mypass/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://flex990.github.io/mypass/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -46,10 +48,10 @@
     "https://flex990.github.io/mypass/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://flex990.github.io/mypass/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://flex990.github.io/mypass/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://flex990.github.io/mypass/index.html": "67dc97d56158820abbd553764f0bd343db22efb8",
-    "https://flex990.github.io/mypass/main.64b246b141640c9af9fb.js": "654ef215a664c7b743ec6e48b350cedae0b0c63b",
-    "https://flex990.github.io/mypass/polyfills.a332e488364276406cef.js": "a2736e6d825142bf94bc5287b3ebe80735bdd4d0",
-    "https://flex990.github.io/mypass/runtime.11bfe23b473762c24644.js": "a412cdf9f482a9be0758f0978eab12bb05a70730",
+    "https://flex990.github.io/mypass/index.html": "eceead1cc3beb3fa57944f4a6bab0727ec483891",
+    "https://flex990.github.io/mypass/main.43d6eca509bae8f90fc5.js": "6c3e33cc62c71fa004186796cb8868a447257f34",
+    "https://flex990.github.io/mypass/polyfills.e0d2e32bad0be6183dcf.js": "10e7dc784bfe17d80f917d21cfb721324775c9b0",
+    "https://flex990.github.io/mypass/runtime.2fd6ab9b8796fbc742f4.js": "95df11f9aefc2a7648b59aed96221178af9609f1",
     "https://flex990.github.io/mypass/styles.e115af60effd47cf4882.css": "df83bff0abcf1ad791a9cc2c468ac7e971819916"
   },
   "navigationUrls": [
