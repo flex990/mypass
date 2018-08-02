@@ -8,6 +8,22 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#1976d2">
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('ngsw-config.json');
+      window.addEventListener('beforeinstallprompt', event => {
+        event.preventDefault();
+        var button = document.querySelector('button');
+        button.removeAttribute('hidden');
+        button.addEventListener('click', () => {
+          event.prompt();
+          button.setAttribute('disabled', true);
+        });
+      });
+    }
+  </script>
+
 <link rel="stylesheet" href="styles.e115af60effd47cf4882.css"></head>
 <body>
   <app-root></app-root>
