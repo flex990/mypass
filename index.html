@@ -11,7 +11,7 @@
 
   <script>
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('ngsw-config.json');
+      navigator.serviceWorker.register('ngsw.json');
       window.addEventListener('beforeinstallprompt', event => {
         event.preventDefault();
         var button = document.querySelector('button');
